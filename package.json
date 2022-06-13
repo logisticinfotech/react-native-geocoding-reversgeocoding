@@ -1,6 +1,6 @@
 {
   "name": "@logisticinfotech/react-native-geocoding-reversegrocoding",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Geocoding and reverse geocoding feature available",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/dhavallogistic/react-native-geocoding-reversegrocoding",
+  "repository": "https://github.com/logisticinfotech/react-native-geocoding-reversgeocoding",
   "author": "Dhaval Mehta <dhavalmehta@logisticinfotech.co.in> (https://github.com/dhavallogistic)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dhavallogistic/react-native-geocoding-reversegrocoding/issues"
+    "url": "https://github.com/logisticinfotech/react-native-geocoding-reversgeocoding/issues"
   },
-  "homepage": "https://github.com/dhavallogistic/react-native-geocoding-reversegrocoding#readme",
+  "homepage": "https://github.com/logisticinfotech/react-native-geocoding-reversgeocoding#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

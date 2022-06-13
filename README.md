@@ -6,12 +6,12 @@
 
 ## Demo
 
-![This demo.](/react-native-geocoding-reversegeocoding.gif "This is a sample.")
+![This demo.](https://raw.githubusercontent.com/logisticinfotech/react-native-geocoding-reversgeocoding/main/react-native-geocoding-reversegeocoding.gif?token=GHSAT0AAAAAABUL243UMV7P42UHDDBNN4OAYVG4HNQ "This is a sample.")
 
 ## Installation
 
 ```sh
-npm install react-native-geocoding-reversegrocoding
+npm install @logisticinfotech/react-native-geocoding-reversegrocoding
 ```
 
 ### Android 
