@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  GeocodingReversegrocodingExample
+//  GeocodingReversegeocodingExample
 //
 
 import Foundation
