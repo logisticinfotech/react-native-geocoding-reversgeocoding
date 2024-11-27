@@ -1,4 +1,4 @@
-# react-native-geocoding-reversegrocoding
+# react-native-geocoding-reversegeocoding
 
 * No need to use Native modules anymore.
 * No need to generate Google API key for geocoding functionality in react-native anymore.
@@ -11,7 +11,7 @@
 ## Installation
 
 ```sh
-npm install @logisticinfotech/react-native-geocoding-reversegrocoding
+npm install @logisticinfotech/react-native-geocoding-reversegeocoding
 ```
 
 ### Android 
@@ -77,7 +77,7 @@ cd ..
 import { 
     getLocationFromAddress, 
     getAddressFromLocation 
-} from "react-native-geocoding-reversegrocoding";
+} from "react-native-geocoding-reversegeocoding";
 
 // ...
 // ...
