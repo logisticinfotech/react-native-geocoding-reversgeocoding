@@ -1,6 +1,6 @@
 {
   "name": "@logisticinfotech/react-native-geocoding-reversegeocoding",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Geocoding and reverse geocoding feature available",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
